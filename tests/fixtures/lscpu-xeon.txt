@@ -1,0 +1,8 @@
+Architecture: x86_64
+CPU(s): 32
+Thread(s) per core: 2
+Core(s) per socket: 8
+Socket(s): 2
+Model name: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+CPU max MHz: 3300.0000
+CPU MHz: 2000.0000

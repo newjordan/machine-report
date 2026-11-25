@@ -1,0 +1,2 @@
+Filesystem 1048576-blocks Used Available Capacity Mounted on
+/dev/mapper/vg-root 4096 1024 3072 25% /

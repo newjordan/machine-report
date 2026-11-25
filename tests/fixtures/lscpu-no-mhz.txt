@@ -1,0 +1,4 @@
+Architecture: x86_64
+Model name: Intel(R) Xeon(R) Processor
+Core(s) per socket: 4
+Socket(s): 1
